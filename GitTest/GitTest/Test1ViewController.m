@@ -36,6 +36,12 @@
     
     //冲突dev2-3
     
+    //sourceTree软合并-1
+    
+    //sourceTree软合并-2
+    
+    //sourceTree软合并-3
+    
 }
 
 /*
